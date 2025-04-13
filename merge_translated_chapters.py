@@ -22,3 +22,5 @@ def merge_chapters():
         composer.append(next_doc)
 
     composer.save("Frontier Shangri La.docx")
+
+merge_chapters()
